@@ -9,6 +9,7 @@
         </p>
         <p>Una vita passata nell'esplorazione dell'insalubrità del vivere.</p>
         <p>Una scoperta dell'assenza del Qui e Ora, per il pieno vivere dell'Altrove e In un altro momento.</p>
+        <p>Alla ricerca della piena inconsapevolezza.</p>
     </div>
 
 </x-applayout>

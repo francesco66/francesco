@@ -8,7 +8,10 @@
 
 
         <p class=pt-10>Chitarra classica</p>
+        <a href="" class="link link-primary">canale YouTube</a>
+
         <p class=pt-10>Esplorazioni con Csound</p>
+        <a href="" class="link link-primary">canale YouTube</a>
 
     </div>
 </x-applayout>
