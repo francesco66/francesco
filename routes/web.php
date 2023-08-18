@@ -30,8 +30,8 @@ Route::get('/poesia', function () {
     return view('poesia');
 });
 
-Route::get('/idee', function () {
-    return view('idee');
+Route::get('/pensieri', function () {
+    return view('pensieri');
 });
 
 
